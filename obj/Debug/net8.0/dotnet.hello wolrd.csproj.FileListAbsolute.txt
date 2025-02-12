@@ -1,0 +1,14 @@
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\bin\Debug\net8.0\dotnet.hello wolrd.exe
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\bin\Debug\net8.0\dotnet.hello wolrd.deps.json
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\bin\Debug\net8.0\dotnet.hello wolrd.runtimeconfig.json
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\bin\Debug\net8.0\dotnet.hello wolrd.dll
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\bin\Debug\net8.0\dotnet.hello wolrd.pdb
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.AssemblyInfoInputs.cache
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.AssemblyInfo.cs
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.csproj.CoreCompileInputs.cache
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.dll
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\refint\dotnet.hello wolrd.dll
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.pdb
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.genruntimeconfig.cache
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\ref\dotnet.hello wolrd.dll
