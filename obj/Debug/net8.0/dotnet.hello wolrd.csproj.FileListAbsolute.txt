@@ -12,3 +12,4 @@ C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\re
 C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.pdb
 C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.genruntimeconfig.cache
 C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\ref\dotnet.hello wolrd.dll
+C:\Users\evera\OneDrive\Área de Trabalho\dotnet.hello wolrd\obj\Debug\net8.0\dotnet.hello wolrd.sourcelink.json

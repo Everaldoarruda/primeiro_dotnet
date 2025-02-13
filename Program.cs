@@ -7,5 +7,6 @@ Console.WriteLine(primeiroNome);
 
 string Aldo= "10anos";
 Console.Write(Aldo);
+Console.Write("Aldo");
 
 
